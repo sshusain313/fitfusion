@@ -10,9 +10,10 @@ const Footer = () => {
           FitFusion
         </Typography>
         <Typography variant="h5" pb="40px" mt="20px">
-          By Abhay Kashyap
+          By Shabahat Husain
         </Typography>
       </Stack>
+      
     </Box>
   );
 };
