@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sshusain313/FitFusion/static/css/main.240bc4a6.css",
+    "main.js": "/sshusain313/FitFusion/static/js/main.d4dbd7af.js",
+    "static/media/banner.png": "/sshusain313/FitFusion/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/sshusain313/FitFusion/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/sshusain313/FitFusion/index.html",
+    "main.240bc4a6.css.map": "/sshusain313/FitFusion/static/css/main.240bc4a6.css.map",
+    "main.d4dbd7af.js.map": "/sshusain313/FitFusion/static/js/main.d4dbd7af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240bc4a6.css",
+    "static/js/main.d4dbd7af.js"
+  ]
+}
